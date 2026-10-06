@@ -1,4 +1,4 @@
-package Ejercicios_repaso;
+package EjercicioRepasoT1;
 
 public class Ejercicio5 {
     public static void main(String[] args) {
@@ -13,6 +13,7 @@ public class Ejercicio5 {
         System.out.println("---------------------------------------");
         System.out.printf("\33[1m%-20s%18s\33[0m\n","Total", "25,95$");
         System.out.printf("\33[1m%-20s%18s\33[0m\n","Total", "25,95$");
+        System.out.println("IVA incluido : 21%");
 
     }
 
