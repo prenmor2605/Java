@@ -1,3 +1,5 @@
+package Practica_Ejemplos;
+
 public class Colores {
     
     public static void main(String[] args) {

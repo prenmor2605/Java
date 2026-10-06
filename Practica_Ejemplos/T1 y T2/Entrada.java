@@ -1,3 +1,4 @@
+package Practica_Ejemplos;
 public class Entrada{
 
     public static void main(String[] args){

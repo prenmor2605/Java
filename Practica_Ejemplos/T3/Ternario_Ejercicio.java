@@ -1,3 +1,4 @@
+package Practica_Ejemplos.T3;
 
 import java.util.Scanner;
 

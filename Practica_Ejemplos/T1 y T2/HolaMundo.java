@@ -1,3 +1,5 @@
+package Practica_Ejemplos;
+
 public class HolaMundo {
 
     public static void main(String[] argd) {

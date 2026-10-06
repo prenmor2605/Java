@@ -1,3 +1,5 @@
+package Practica_Ejemplos;
+
 public class Coche {
 
     String color ;
