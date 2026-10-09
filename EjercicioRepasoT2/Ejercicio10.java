@@ -14,8 +14,6 @@ public class Ejercicio10 {
         System.out.printf("IVA (21%%)\t%.2f\n",base * IVA);
         System.out.println("----------------------");
         System.out.printf("Total:\t\t%.2f\n",Total + base);
-
-
-
+         
     }
 }
